@@ -1,23 +1,29 @@
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/GEEK-MODE/.github/main/profile/geekmode-banner.png" alt="GEEK-MODE" width="80%"/>
-  
-	<h1 align="center">
+	<img src="https://raw.githubusercontent.com/GEEK-MODE/.github/main/profile/geekmode-banner.png" alt="GEEK-MODE" width="100%" style="position:absolute;z-index:-1;opacity:0.15;top:0;left:0;"/>
+	<br>
+	<h1 align="center" style="position:relative;z-index:2;">
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=GEEK-MODE+%F0%9F%91%BE+%F0%9F%94%A5;Code+is+my+playground;Remixing+the+future"/>
 	</h1>
-  
-	<sub><b>Welcome to the edge of innovation.</b> I build, break, and remix code with a unique twist.<br>
-	<b>Inspired by <a href="https://uneek.dev">uneek.dev</a></b></sub>
+	<sub style="position:relative;z-index:2;">
+		<b>Welcome to the edge of innovation.</b> I build, break, and remix code with a unique twist.<br>
+		<b>Inspired by <a href="https://uneek.dev">uneek.dev</a></b>
+	</sub>
 </div>
 
 <pre align="center">
+</code>
 <code>
-	 _____            _    __  __           _      _           
-	/ ____|          | |  |  \/  |         | |    | |          
- | |  __  ___ _ __ | |_ | \  / | ___   __| | ___| | ___  ___ 
- | | |_ |/ _ \ '_ \| __|| |\/| |/ _ \ / _` |/ _ \ |/ _ \/ __|
- | |__| |  __/ | | | |_ | |  | | (_) | (_| |  __/ |  __/\__ \
-	\_____|\___|_| |_|\__||_|  |_|\___/ \__,_|\___|_|\___||___/
+	██████╗ ███████╗███████╗██╗  ██╗███╗   ███╗    ████╗ ████╗ ████╗ ████╗ ████╗
+  ██╔══██╗██╔════╝██╔════╝██║  ██║████╗ ████║   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+  ██║  ██║█████╗  ███████╗██║  ██║██╔████╔██║   ██║  ██║██║  ██║██║  ██║██║  ██║
+  ██║  ██║██╔══╝  ╚════██║██║  ██║██║╚██╔╝██║   ██║  ██║██║  ██║██║  ██║██║  ██║
+  ██████╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║   ██████╔╝██████╔╝██████╔╝██████╔╝
+  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝   ╚═════╝ ╚═════╝ ╚═════╝ ╚═════╝ 
+
+	░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+	GEEKMODE: Code. Remix. Repeat. 🚀
+</code>
 </code>
 </pre>
 
@@ -27,14 +33,15 @@
 ## 🚀 Featured Repositories
 
 <p align="center">
-	<a href="https://github.com/GEEK-MODE/awesome-project"><img src="https://img.shields.io/badge/Awesome_Project-uneek-blue?style=for-the-badge"/></a>
-	<a href="https://github.com/GEEK-MODE"><img src="https://img.shields.io/badge/Cyber_Lab-geekmode-green?style=for-the-badge"/></a>
-	<a href="https://github.com/GEEK-MODE"><img src="https://img.shields.io/badge/Next_Level-experimental-purple?style=for-the-badge"/></a>
+	<a href="https://github.com/neekmode/"><img src="https://img.shields.io/badge/Awesome_Project-uneek-blue?style=for-the-badge"/></a>
+	<a href="https://github.com/neekmode"><img src="https://img.shields.io/badge/Cyber_Lab-geekmode-green?style=for-the-badge"/></a>
+	<a href="https://github.com/neekmode"><img src="https://img.shields.io/badge/Next_Level-experimental-purple?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=GEEK-MODE&show_icons=true&theme=radical"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=GEEK-MODE&theme=radical"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=nfneek&show_icons=true&theme=radical"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=nfneek&theme=radical"/>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=neekmode&theme=radical"/>
 </p>
 
 ---
